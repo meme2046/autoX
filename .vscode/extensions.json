@@ -25,6 +25,8 @@
 		// react
 		"bradlc.vscode-tailwindcss",
 		"dbaeumer.vscode-eslint",
-		"burkeholland.simple-react-snippets"
+		"burkeholland.simple-react-snippets",
+		// autojsX
+		"aaroncheng.auto-js-vsce-fixed"
 	]
 }
